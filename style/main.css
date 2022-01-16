@@ -2,6 +2,12 @@
 	background-color: #6ab47b;
 }
 
+body {
+	color: black;
+	font-family: Corbel, Arial, sans-serif;
+	margin: 0px;
+}
+
 h1 {
 	font-size: 36px;
 	margin: 0px;
@@ -10,15 +16,14 @@ h1 {
 	color: #ffffff;
 }
 
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
 h2 {
 	color: #ffffff;
 	text-align: center;
-}
-
-body {
-	color: black;
-	font-family: Corbel, Arial, sans-serif;
-	margin: 0px;
 }
 
 #nav {
